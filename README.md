@@ -1,9 +1,9 @@
-🔭 Who am I :["Software engineer"]
-🤝 I'm open to: ["Collaborate"]
-🌱 Languages I speak: ["JavaScript", "HTML", "CSS", "SQL"]
-🔨 Stack: ["React", "node.JS"]
-📚 Learning: ["Good API design, "Next.js", "TailwindCSS", "DevOps, Security"]
-🤔 Interests: ["Fintech", "Data Visualisation"]
+-🔭 Who am I :["Software engineer"]
+-🤝 I'm open to: ["Collaborate"]
+-🌱 Languages I speak: ["JavaScript", "HTML", "CSS", "SQL"]
+-🔨 Stack: ["React", "node.JS"]
+-📚 Learning: ["Good API design, "Next.js", "TailwindCSS", "DevOps, Security"]
+-🤔 Interests: ["Fintech", "Data Visualisation"]
 
 
 <!---
