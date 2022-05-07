@@ -4,7 +4,7 @@ Hello World!
 🌱 Languages I speak: ["JavaScript", "HTML", "CSS", "SQL"]
 🔨 Stack: ["React", "node.JS"]
 📚 Learning: ["Good API design, "Next.js", "TailwindCSS", "DevOps, Security"]
-🤔 Interests: ["Fintech", "Data Visualisation"]
+🤔 Interests: ["Fintech", "Front end developing"]
 
 
 <!---
