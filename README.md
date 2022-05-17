@@ -1,6 +1,5 @@
 
 - 👋 Hello World!
-- 
 - 👀 🔭 Who am I :["Software engineer"].
 - 🤝 I'm open to: ["Collaborate"].
 - 🌱 Languages I speak: ["JavaScript", "HTML", "CSS", "SQL"].
