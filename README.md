@@ -4,7 +4,7 @@
 - 🤝 I'm open to: ["Collaborate"].
 - 🌱 Languages I speak: ["JavaScript", "HTML", "CSS", "SQL"].
 - 🔨 Stack: ["React", "node.JS"].
-- 📚 Learning: ["Good API design", "Next.js", "TailwindCSS", "DevOps"].
+- 📚 Learning: ["Good API design"].
 - 📫 How to reach me amyhe1995@gmail.com.
 
 <!---
