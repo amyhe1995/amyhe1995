@@ -17,7 +17,6 @@ I love the entire process of developing creative websites. I love the challenge 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amyhe1995/) &nbsp;
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:amyhe1995@gmail.com)
 
-<br>
 ## 🔭 I'm currently working on
 
 - Personal Project (Job Search Website)
