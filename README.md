@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="./banner.png" alt="my banner"></a>
+  <img src="./banner.png" alt="my banner">
 </p>
 
 <h3 align="center">
