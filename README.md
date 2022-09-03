@@ -19,7 +19,9 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 🔭 I'm currently working on
 
-- Personal Project (Job Search Website)
+- Personal Project 
+<a href="https://github.com/amyhe1995/user-management-system">User Management System</a>
+<a href="https://github.com/amyhe1995/Event-Notes-handlebar-and-express">Event Note</a>
 
 ## 🌱 I'm currently learning
 
