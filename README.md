@@ -18,10 +18,8 @@ I love the entire process of developing creative websites. I love the challenge 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:amyhe1995@gmail.com)
 
 ## 🔭 I'm currently working on
-
-- Personal Project 
-<a href="https://github.com/amyhe1995/user-management-system">User Management System</a>
-<a href="https://github.com/amyhe1995/Event-Notes-handlebar-and-express">Event Note</a>
+- <a href="https://github.com/amyhe1995/user-management-system">User Management System</a>
+- <a href="https://github.com/amyhe1995/Event-Notes-handlebar-and-express">Event Note</a>
 
 ## 🌱 I'm currently learning
 
