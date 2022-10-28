@@ -47,6 +47,8 @@ I love the entire process of developing creative websites. I love the challenge 
 ## 📈 GitHub Stats
 
 [![Amy's github stats](https://github-readme-stats.vercel.app/api?username=amyhe1995)](https://github.com/amyhe1995/)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amyhe1995&layout=compact)](https://github.com/amyhe1995/github-readme-stats)
 
 <!---
 amyhe1995/amyhe1995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
